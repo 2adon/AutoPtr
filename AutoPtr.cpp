@@ -1,3 +1,5 @@
+#include "AutoPtr.hpp"
+
 int main(int argc, char* argv, char* envp)
 {
     int x = 10;
